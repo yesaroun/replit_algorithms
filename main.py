@@ -4,6 +4,7 @@ def is_palindrome(word):
     for count in range(round(total / 2)):
         if not word[count] == word[total - count]:
             pass
+            True
 
 
 # 테스트 코드
